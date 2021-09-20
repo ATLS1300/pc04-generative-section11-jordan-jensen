@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=455635&assignment_repo_type=GroupAssignmentRepo)
 # PC04 Generative Art & Tools for the week
 This week, we'll be working on for loops and randomness to create Generative Art! We'll also spend a lot of time reviewing and practicing coding together!
 We'll also start borrowing code from The Internet. Read the [rules](https://canvas.colorado.edu/courses/75648/pages/rules-on-borrowing-code) so you don't lose points.
